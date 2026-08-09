@@ -2,8 +2,8 @@
  
 **Backend & Data Platform Engineer | Java • Python • AWS • Distributed Systems**
  
-I build backend services, data platforms, and automation for problems that usually start out
-messy, manual, or poorly defined.
+I build backend services, data platforms, and automation that turn complex, manual workflows 
+into reliable systems.
 
 My path into engineering wasn't a straight line. I started on the business side in
 **Amazon Treasury** and **Boeing Procurement**, went back for a **Computer Science degree at
