@@ -1,17 +1,25 @@
-# 👋 Hey, I'm Misha!
+# 🙌 Hey, I'm Misha!
  
 **Backend & Data Platform Engineer | Java • Python • AWS • Distributed Systems**
  
-I build backend services, data pipelines, and the operational tooling that keeps them honest. 🛠️
-My path wasn't a straight line — I started in **finance** (Amazon Treasury, Boeing Procurement),
-went back for a **CS degree at UW Bothell**, did a **data engineering fellowship at Insight**, and
-have been an engineer at **Amazon / Whole Foods Market Tech** since 2020, now as an **SDE II**.
+I build backend services, data platforms, and automation for problems that usually start out
+messy, manual, or poorly defined.
+
+My path into engineering wasn't a straight line. I started on the business side in
+**Amazon Treasury** and **Boeing Procurement**, went back for a **Computer Science degree at
+UW Bothell**, completed the **Insight Data Engineering fellowship**, and joined
+**Amazon / Whole Foods Market Tech** as a software engineer in 2020.
+
+That background still shapes how I work: understand the business problem first, then work backward
+to the system. I also use **AI as an engineering accelerator** — to explore approaches, move faster
+through implementation, and tighten feedback loops — while staying accountable for the design,
+tradeoffs, testing, and production result.
+
+A lot of my work comes down to the same questions:
+
+**What is slow? What is manual? What breaks? What shouldn't require a human?**
  
-Coming from the analyst side means I tend to start with the business question and work backward to
-the system. Most of what I do is ambiguous, cross-team work: standing up data foundations,
-automating things that shouldn't be manual, and owning services in production at 3am.
- 
-### 💻 My Tech Toolkit
+### 💻 Technical Stack
  
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -128,3 +136,4 @@ distributed services, data pipelines, and cloud infrastructure.
 <p align="center">
   <b>Let's build something together!</b>
 </p>
+
